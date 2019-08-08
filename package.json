@@ -1,0 +1,19 @@
+{
+  "name": "homework6",
+  "version": "1.0.0",
+  "description": "> Author(s): Brian Crites ([@brrcrites](https://github.com/brrcrites))",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmpgotcha/homework6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmpgotcha/homework6/issues"
+  },
+  "homepage": "https://github.com/bmpgotcha/homework6#readme"
+}
