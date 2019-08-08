@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bmpgotcha/homework6/issues"
   },
-  "homepage": "https://github.com/bmpgotcha/homework6#readme"
+  "homepage": "https://github.com/bmpgotcha/homework6#readme",
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
